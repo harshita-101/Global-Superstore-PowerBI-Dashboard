@@ -84,15 +84,15 @@ Provides detailed product performance analysis:
 
 ### Executive Overview
 
-(Add Screenshot Here)
+![Executive Overview](Executive%20Overview.png)
 
 ### Customer Analytics
 
-(Add Screenshot Here)
+![Customer Analytics](Customer_Analytics.png)
 
 ### Product Analytics
 
-(Add Screenshot Here)
+![Product Analytics](Product_Analytics.png)
 
 ---
 
